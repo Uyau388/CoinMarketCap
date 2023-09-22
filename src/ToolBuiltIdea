@@ -1,0 +1,34 @@
+
+
+Tool 3: Đọc dữ liệu từ coinmarketcap https://coinmarketcap.com/vi/ bằng websocket đổ vào Postgres.
+Ghi log quá trình xử lý:
+
+
+-- Lấy data thông qua API cung cấp của coinmarketcap:
+    https://coinmarketcap.com/api/documentation/v1/#section/Introduction
+-- Dùng lớp inputStream để đọc dữ liệu từ Data source và OutputStream để ghi dữ liệu vào Data Destination
+
+-- Dùng thư viện jsoup hoặc OkHttp của java để scraping data
+
+
+
+-- Tool 4: Đọc dữ liệu từ kết quả xổ số hằng ngày Hà Nội -> Xuất ra màn hình console trước để xem kết quả
+-- Đổ hết kết quả trả về vào Postgres.
+-- Ghi lại toàn bộ quá trình xử lý
+
+Link xổ số:
+
+Phân tích task:
+- Tìm hiểu cách kết nối từ IDE với xuống Postgres
++ Xem cách Postgres dùng IP nào, port nào
++ Cài thư viện về hỗ trợ xử lý
++
+
+
+
+-- Function xử lý: Dùng hàm Map để put giá trị Key - Value vào Map
+-- Xuất kết quả hứng được của map vào
+-- Folder lưu project: C:\Users\audin\IdeaProjects
+
+
+

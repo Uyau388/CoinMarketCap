@@ -1,0 +1,122 @@
+Client input: Client received: 
+1 Bitcoin BTC $26,739.59 0.08% 1.30% 1.73% $521.22B$521,221,623,708 $13,384,406,091 500,528 BTC 19,491,806 BTC			
+2 Ethereum ETH $1,595.52 0.92% 2.14% 1.47% $191.8B$191,799,972,358 $5,396,490,262 3,382,733 ETH 120,227,795 ETH			
+3 Tether USDt USDT $1.00 0.00% 0.01% 0.03% $83.19B$83,193,311,562 $21,704,994,046 21,704,395,287 USDT 83,191,016,572 USDT			
+4 BNB BNB $210.31 0.55% 2.56% 0.76% $32.36B$32,356,299,135 $428,877,467 2,039,227 BNB 153,847,753 BNB			
+5 XRP XRP $0.5035 0.77% 1.82% 4.60% $26.77B$26,774,798,657 $1,049,437,677 2,084,208,726 XRP 53,175,400,720 XRP			
+6 USD Coin USDC $0.9999 0.01% 0.02% 0.04% $25.95B$25,946,206,159 $3,086,864,506 3,087,004,275 USDC 25,947,380,966 USDC			
+7 Dogecoin DOGE $0.0616 0.81% 0.90% 0.47% $8.69B$8,692,191,291 $223,077,951 3,621,128,277 DOGE 141,096,596,384 DOGE			
+8 Cardano ADA $0.2474 0.47% 2.02% 0.05% $8.69B$8,688,992,601 $122,018,344 493,104,314 ADA 35,114,226,330 ADA			
+9 Solana SOL $19.60 0.39% 2.45% 4.68% $8.08B$8,084,258,805 $278,655,129 14,217,811 SOL 412,482,855 SOL			
+10 Toncoin TON $2.32 0.67% 7.00% 23.77% $7.96B$7,961,182,903 $48,966,871 21,108,549 TON 3,431,892,088 TON			
+TRONTRX $0.08			
+DaiDAI $1.00			
+PolkadotDOT $4.04			
+PolygonMATIC $0.53			
+LitecoinLTC $63.37			
+Wrapped BitcoinWBTC $26710.25			
+Shiba InuSHIB $0.00			
+Bitcoin CashBCH $208.32			
+ChainlinkLINK $6.71			
+UNUS SED LEOLEO $3.87			
+TrueUSDTUSD $1.00			
+AvalancheAVAX $8.83			
+StellarXLM $0.11			
+CosmosATOM $7.46			
+MoneroXMR $146.08			
+OKBOKB $43.15			
+UniswapUNI $4.27			
+BUSDBUSD $1.00			
+Ethereum ClassicETC $15.22			
+HederaHBAR $0.05			
+FilecoinFIL $3.25			
+Lido DAOLDO $1.52			
+Internet ComputerICP $2.94			
+MantleMNT $0.40			
+CronosCRO $0.05			
+MakerMKR $1310.55			
+VeChainVET $0.02			
+AptosAPT $5.06			
+QuantQNT $88.76			
+ArbitrumARB $0.82			
+NEAR ProtocolNEAR $1.11			
+OptimismOP $1.30			
+AaveAAVE $62.70			
+The GraphGRT $0.09			
+ImmutableIMX $0.66			
+AlgorandALGO $0.10			
+XDC NetworkXDC $0.05			
+USDDUSDD $1.00			
+MultiversXEGLD $26.27			
+StacksSTX $0.47			
+Bitget TokenBGB $0.45			
+TezosXTZ $0.66			
+EOSEOS $0.57			
+Axie InfinityAXS $4.40			
+The SandboxSAND $0.29			
+InjectiveINJ $7.14			
+Bitcoin SVBSV $30.99			
+RenderRNDR $1.60			
+THORChainRUNE $1.76			
+Theta NetworkTHETA $0.58			
+SynthetixSNX $2.07			
+DecentralandMANA $0.29			
+FantomFTM $0.19			
+NeoNEO $7.31			
+Pax DollarUSDP $1.00			
+KavaKAVA $0.62			
+PAX GoldPAXG $1916.26			
+Tether GoldXAUt $1926.06			
+eCashXEC $0.00			
+FlowFLOW $0.44			
+KuCoin TokenKCS $4.53			
+ChilizCHZ $0.06			
+Rocket PoolRPL $21.43			
+ZcashZEC $25.76			
+IOTAMIOTA $0.15			
+ApeCoinAPE $1.10			
+ConfluxCFX $0.12			
+Huobi TokenHT $2.43			
+Frax ShareFXS $5.25			
+Curve DAO TokenCRV $0.44			
+CasperCSPR $0.03			
+GateTokenGT $3.83			
+BitTorrent(New)BTT $0.00			
+MinaMINA $0.38			
+KlaytnKLAY $0.11			
+SuiSUI $0.44			
+Terra ClassicLUNC $0.00			
+Trust Wallet TokenTWT $0.79			
+GalaGALA $0.01			
+NexoNEXO $0.58			
+GMXGMX $35.05			
+APENFTNFT $0.00			
+dYdXDYDX $1.97			
+CompoundCOMP $38.91			
+Gemini DollarGUSD $1.00			
+DashDASH $26.01			
+WOO NetworkWOO $0.17			
+AstarASTR $0.05			
+Oasis NetworkROSE $0.04			
+FlareFLR $0.01			
+java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:283)
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396)
+	at Client.<init>(Client.java:55)
+	at Client.main(Client.java:79)
+Sep 21, 2023 6:19:44 PM Client main
+INFO: Client info message
+Sep 21, 2023 6:19:45 PM Client main
+WARNING: Client warning message
+Sep 21, 2023 6:19:45 PM Client main
+SEVERE: Client severe message

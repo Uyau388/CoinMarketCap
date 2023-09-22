@@ -1,0 +1,6 @@
+Sep 21, 2023 6:19:45 PM Server main
+INFO: Client info message
+Sep 21, 2023 6:19:45 PM Server main
+WARNING: Client warning message
+Sep 21, 2023 6:19:45 PM Server main
+SEVERE: Client severe message

@@ -1,0 +1,12 @@
+Sep 21, 2023 5:55:42 PM Client main
+INFO: Client info message
+Sep 21, 2023 5:55:42 PM Client main
+WARNING: Client warning message
+Sep 21, 2023 5:55:42 PM Client main
+SEVERE: Client severe message
+Sep 21, 2023 6:19:44 PM Client main
+INFO: Client info message
+Sep 21, 2023 6:19:45 PM Client main
+WARNING: Client warning message
+Sep 21, 2023 6:19:45 PM Client main
+SEVERE: Client severe message
